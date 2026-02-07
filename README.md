@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jonathanmh12 aka Jonathan Hartfield
 - 👀 I’m interested in data collection, science, and analysis
-- 🌱 I’m currently learning java and other object oriented languages
 - 📫 How to reach me - email: jonathan.hartfield2013@gmail.com | phone: 256-822-9855
 
 <!---
